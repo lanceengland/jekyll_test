@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Print - All Domains
+title: All Domains
 ---
 
 # Study Guide - All Domains

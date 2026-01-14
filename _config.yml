@@ -1,5 +1,5 @@
-title: Study Guide
-description: A study guide for certification preparation
+title: SnowPro Core Study Guide
+description: Notes for preparing for the Snowflake SnowPro Core certification
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
