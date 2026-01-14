@@ -1,0 +1,5 @@
+title: Study Guide
+description: A study guide for certification preparation
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
